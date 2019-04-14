@@ -1,0 +1,580 @@
+{
+    "Productos": [
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar CIC Marsella Caramelo-Blanco",
+            "precio-internet": "Internet $62.990",
+            "precio-normal": "Normal $163.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-cic-marsella-caramelo-blanco-1126667"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Nogal Cross",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-6-sillas-nogal-cross-casa-linda-1113912"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Kava Casalinda Beijing Wengue",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $189.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-kava-beijing-wengue-casa-linda-1115025"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Metal Vidrio Negro Delta 4 Sillas",
+            "precio-internet": "Internet $112.990",
+            "precio-normal": "Normal $253.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-metal-vidrio-negro-delta-4s-1118815"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Casalinda Rosset",
+            "precio-internet": "Internet $310.990",
+            "precio-normal": "Normal $682.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-casalinda-rosset-1118885--1000"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dextor 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $604.990",
+            "precio-normal": "Normal $1.185.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dextor-6-sillas--2-sitiales-1129987"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dennis 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $487.990",
+            "precio-normal": "Normal $982.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dennis-6-sillas--2-sitiales-1129989"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Toulouse",
+            "precio-internet": "Internet $54.990",
+            "precio-normal": "Normal $111.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-toulouse-1129343"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Greco",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $164.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-greco-1129339"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Margarita",
+            "precio-internet": "Internet $141.990",
+            "precio-normal": "Normal $285.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-casalinda-6-sillas-margarita-1100824"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Prisma Nogal",
+            "precio-internet": "Internet $225.990",
+            "precio-normal": "Normal $497.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-6-sillas-royal-nogal-1112427"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Ovalado Extensible 6 Sillas Casalinda Turin",
+            "precio-internet": "Internet $382.990",
+            "precio-normal": "Normal $799.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-ovalado-extensible-casalinda-turin-1119834"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Silla Casalinda Metálica",
+            "precio-internet": "Internet $5.990",
+            "precio-normal": "Normal $11.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/silla-casalinda-acero-apilable-metalica--1128925"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Calabria 4 Sillas",
+            "precio-internet": "Internet $203.990",
+            "precio-normal": "Normal $564.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-calabria-4-sillas-860882"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Cuprita 6 Sillas",
+            "precio-internet": "Internet $169.990",
+            "precio-normal": "Normal $383.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-decomueble-cuprita-6-sillas-1108355"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Titania 4 Sillas Negro",
+            "precio-internet": "Internet $87.990",
+            "precio-normal": "Normal $196.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-titania-4-sillas-1108357"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Natural",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-croos-6-sillas-natural-1112495"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor CIC Austria 6 Sillas Dirty Oak",
+            "precio-internet": "Internet $299.990",
+            "precio-normal": "Normal $865.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-cic-austria-6-sillas-dirty-oak-1115584"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Cordobés 4 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $519.990",
+            "precio-normal": "Normal $1.129.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-4-sillas-cordobes-2-sitiales-1108128"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Prisma 4 Sillas café",
+            "precio-internet": "Internet $161.990",
+            "precio-normal": "Normal $368.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-prisma-4-sillas-cafe-1112429"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Indo Café",
+            "precio-internet": "Internet $194.990",
+            "precio-normal": "Normal $439.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-indo-cafe-1118847"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Omega 6 Sillas Negro",
+            "precio-internet": "Internet $234.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-negro-1118848"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Omega Beige",
+            "precio-internet": "Internet $233.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-beige-1118849"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Berlin 6 Sillas Nogal",
+            "precio-internet": "Internet $544.990",
+            "precio-normal": "Normal $1.231.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-nogal-casalinda-berlin-6s-1118863"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar CIC Marsella Caramelo-Blanco",
+            "precio-internet": "Internet $62.990",
+            "precio-normal": "Normal $163.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-cic-marsella-caramelo-blanco-1126667"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Nogal Cross",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-6-sillas-nogal-cross-casa-linda-1113912"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Kava Casalinda Beijing Wengue",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $189.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-kava-beijing-wengue-casa-linda-1115025"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Metal Vidrio Negro Delta 4 Sillas",
+            "precio-internet": "Internet $112.990",
+            "precio-normal": "Normal $253.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-metal-vidrio-negro-delta-4s-1118815"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Casalinda Rosset",
+            "precio-internet": "Internet $310.990",
+            "precio-normal": "Normal $682.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-casalinda-rosset-1118885--1000"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dextor 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $604.990",
+            "precio-normal": "Normal $1.185.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dextor-6-sillas--2-sitiales-1129987"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dennis 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $487.990",
+            "precio-normal": "Normal $982.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dennis-6-sillas--2-sitiales-1129989"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Toulouse",
+            "precio-internet": "Internet $54.990",
+            "precio-normal": "Normal $111.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-toulouse-1129343"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Greco",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $164.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-greco-1129339"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Margarita",
+            "precio-internet": "Internet $141.990",
+            "precio-normal": "Normal $285.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-casalinda-6-sillas-margarita-1100824"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Prisma Nogal",
+            "precio-internet": "Internet $225.990",
+            "precio-normal": "Normal $497.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-6-sillas-royal-nogal-1112427"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Ovalado Extensible 6 Sillas Casalinda Turin",
+            "precio-internet": "Internet $382.990",
+            "precio-normal": "Normal $799.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-ovalado-extensible-casalinda-turin-1119834"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Silla Casalinda Metálica",
+            "precio-internet": "Internet $5.990",
+            "precio-normal": "Normal $11.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/silla-casalinda-acero-apilable-metalica--1128925"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Calabria 4 Sillas",
+            "precio-internet": "Internet $203.990",
+            "precio-normal": "Normal $564.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-calabria-4-sillas-860882"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Cuprita 6 Sillas",
+            "precio-internet": "Internet $169.990",
+            "precio-normal": "Normal $383.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-decomueble-cuprita-6-sillas-1108355"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Titania 4 Sillas Negro",
+            "precio-internet": "Internet $87.990",
+            "precio-normal": "Normal $196.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-titania-4-sillas-1108357"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Natural",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-croos-6-sillas-natural-1112495"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor CIC Austria 6 Sillas Dirty Oak",
+            "precio-internet": "Internet $299.990",
+            "precio-normal": "Normal $865.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-cic-austria-6-sillas-dirty-oak-1115584"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Cordobés 4 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $519.990",
+            "precio-normal": "Normal $1.129.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-4-sillas-cordobes-2-sitiales-1108128"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Prisma 4 Sillas café",
+            "precio-internet": "Internet $161.990",
+            "precio-normal": "Normal $368.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-prisma-4-sillas-cafe-1112429"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Indo Café",
+            "precio-internet": "Internet $194.990",
+            "precio-normal": "Normal $439.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-indo-cafe-1118847"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Omega 6 Sillas Negro",
+            "precio-internet": "Internet $234.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-negro-1118848"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Omega Beige",
+            "precio-internet": "Internet $233.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-beige-1118849"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Berlin 6 Sillas Nogal",
+            "precio-internet": "Internet $544.990",
+            "precio-normal": "Normal $1.231.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-nogal-casalinda-berlin-6s-1118863"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar CIC Marsella Caramelo-Blanco",
+            "precio-internet": "Internet $62.990",
+            "precio-normal": "Normal $163.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-cic-marsella-caramelo-blanco-1126667"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Nogal Cross",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-6-sillas-nogal-cross-casa-linda-1113912"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Kava Casalinda Beijing Wengue",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $189.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-kava-beijing-wengue-casa-linda-1115025"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Metal Vidrio Negro Delta 4 Sillas",
+            "precio-internet": "Internet $112.990",
+            "precio-normal": "Normal $253.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-metal-vidrio-negro-delta-4s-1118815"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Bar Casalinda Rosset",
+            "precio-internet": "Internet $310.990",
+            "precio-normal": "Normal $682.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/bar-casalinda-rosset-1118885--1000"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dextor 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $604.990",
+            "precio-normal": "Normal $1.185.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dextor-6-sillas--2-sitiales-1129987"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Dennis 6 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $487.990",
+            "precio-normal": "Normal $982.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-dennis-6-sillas--2-sitiales-1129989"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Toulouse",
+            "precio-internet": "Internet $54.990",
+            "precio-normal": "Normal $111.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-toulouse-1129343"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 4 Sillas Greco",
+            "precio-internet": "Internet $82.990",
+            "precio-normal": "Normal $164.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-4-sillas-greco-1129339"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Margarita",
+            "precio-internet": "Internet $141.990",
+            "precio-normal": "Normal $285.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-casalinda-6-sillas-margarita-1100824"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Prisma Nogal",
+            "precio-internet": "Internet $225.990",
+            "precio-normal": "Normal $497.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-6-sillas-royal-nogal-1112427"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Ovalado Extensible 6 Sillas Casalinda Turin",
+            "precio-internet": "Internet $382.990",
+            "precio-normal": "Normal $799.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-ovalado-extensible-casalinda-turin-1119834"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Silla Casalinda Metálica",
+            "precio-internet": "Internet $5.990",
+            "precio-normal": "Normal $11.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/silla-casalinda-acero-apilable-metalica--1128925"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Calabria 4 Sillas",
+            "precio-internet": "Internet $203.990",
+            "precio-normal": "Normal $564.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-calabria-4-sillas-860882"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Cuprita 6 Sillas",
+            "precio-internet": "Internet $169.990",
+            "precio-normal": "Normal $383.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-decomueble-cuprita-6-sillas-1108355"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Titania 4 Sillas Negro",
+            "precio-internet": "Internet $87.990",
+            "precio-normal": "Normal $196.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-titania-4-sillas-1108357"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda 6 Sillas Natural",
+            "precio-internet": "Internet $187.990",
+            "precio-normal": "Normal $414.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-croos-6-sillas-natural-1112495"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor CIC Austria 6 Sillas Dirty Oak",
+            "precio-internet": "Internet $299.990",
+            "precio-normal": "Normal $865.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-cic-austria-6-sillas-dirty-oak-1115584"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor CIC Cordobés 4 Sillas + 2 Sitiales",
+            "precio-internet": "Internet $519.990",
+            "precio-normal": "Normal $1.129.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-cic-4-sillas-cordobes-2-sitiales-1108128"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Prisma 4 Sillas café",
+            "precio-internet": "Internet $161.990",
+            "precio-normal": "Normal $368.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-comedor-casalinda-prisma-4-sillas-cafe-1112429"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Indo Café",
+            "precio-internet": "Internet $194.990",
+            "precio-normal": "Normal $439.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-indo-cafe-1118847"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda Omega 6 Sillas Negro",
+            "precio-internet": "Internet $234.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-negro-1118848"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Juego de Comedor Casalinda 6 Sillas Omega Beige",
+            "precio-internet": "Internet $233.990",
+            "precio-normal": "Normal $527.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/juego-de-comedor-casalinda-6-sillas-omega-beige-1118849"
+        },
+        {
+            "pagina": "Comedores - Ofertas en Todo para Tu Comedor | Abcdin.cl",
+            "nombre": "Comedor Casalinda Berlin 6 Sillas Nogal",
+            "precio-internet": "Internet $544.990",
+            "precio-normal": "Normal $1.231.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/comedor-nogal-casalinda-berlin-6s-1118863"
+        }
+    ]
+}

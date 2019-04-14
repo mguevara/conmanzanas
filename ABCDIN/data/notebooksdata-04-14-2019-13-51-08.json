@@ -1,0 +1,580 @@
+{
+    "Productos": [
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer HP 15,6\" Intel Core i5, 8 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $649.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-hp-15-6-intel-core-i5--8-gb-ram--1-tb-dd-1123806"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo 330S-14IKB 14\" I7-8550U, 20GB Total (4GB ...",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-330s-14ikb-14-i7-8550u--20gb-total-%284gb-ram--16gb-optane%29--1tb-dd-1129872"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0001la 15,6\" Intel Celeron N4000, 4 GB ...",
+            "precio-internet": "Internet $209.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-tower-15-6-intel-celeron-n4000--4-gb-ram--500-gb-1124448"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Intel Core i7 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $879.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/notebook-lenovo-ideapad-330s-15-6-intel-core-i7-8va-generacion-8gb-ram-128-gb-ssd-1-tb-dd-amd-540-2gb-1124747"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo YOGA 330 Intel Pentium Quad Core N5000, ...",
+            "precio-internet": "Internet $279.990",
+            "precio-normal": "Normal $279.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-convertidor-lenovo-11--pentium-n500-4gb-ram-128gb-dd-1126569"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Y730 Intel Core i5 8va ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-6-pentium-n500-8gb-ram--1tb--1126758"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Nitro 5 AN515-52-722W+Core i7 8GB+16GB RAM 1TB",
+            "precio-internet": "Internet $729.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hacer-nitro-5-an515-52-722w-core-i7-8gb-16gb-ram-1tb-1129833"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Apple MacBook Pro Touch Bar 13.3\" Intel Core i5 8va GEN ...",
+            "precio-internet": "Internet $1.599.990",
+            "precio-normal": "Normal $1.999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-pro-133-intel-core-i5--8-gb-ram--256-gb--1128385"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 245 G6 AMD E2 14\" 4GB RAM 500GB DD",
+            "precio-internet": "Internet $179.990",
+            "precio-normal": "Normal $269.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-amd-dual-core-e1-2100-866535"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $199.990",
+            "precio-normal": "Normal $389.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i3-4gb-ram-1tb-dd-1107784"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion x360 2 en 1 14-ba001la 14\" Intel Core ...",
+            "precio-internet": "Internet $229.990",
+            "precio-normal": "Normal $449.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-x360-2-en-1-14-ba001la-14-intel-core-4gb-ram-500gb-dd-lapiz-inteligente-1115754"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Ryzen 3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $319.990",
+            "precio-normal": "Normal $399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330s-156--ryzen-3--4gb-ram--1tb-dd-1124746"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB DD",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd-1124748"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0004la 15,6\", Intel Pentium Silver N5000, ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $339.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-15-da0004la-15-6---intel-pentium-silver-n5000---4gb-ram--500gb-dd-1124449"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Asus TUF Gaming FX504GD-E4653T 15,6\" Intel ...",
+            "precio-internet": "Internet $699.990",
+            "precio-normal": "Normal $849.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-asus-tuf-gaming-fx504gd-e4653t-15-6-intel-core-i7-8750h--8gb-ram--1tb-hdd-1127731"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Intel Core i5-8300H 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-i5-8300h-8gb-ram--1tb-1126761"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i5, 4 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $499.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i5--4-gb-ram--1-tb-dd-1127545"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Legion Y530 15,6\" Intel Core I7-8750H, Hexa ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $1.099.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-legion-y530-15-6-intel-core-i7-8750h--hexa-core--hasta-4-1ghz--24gb-total--8gb-ram--16-optane--1tb-dd-1129877"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Aspire 3 A315-41-R09T Ryzen 5 4GB RAM 1TB",
+            "precio-internet": "Internet $329.990",
+            "precio-normal": "Normal $429.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-acer-aspire-3-a315-41-r09t-ryzen-54gb-ram-1tb-1129832"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $299.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd--mouse-logitech-m170-rojo-combo8178"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-gris-espacial-1131107"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-oro-1131109"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-plata-1131108"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion 15-cd006la 15,6\" AMD Quad Core A12 ...",
+            "precio-internet": "Internet $399.990",
+            "precio-normal": "Normal $599.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-15-cd006la-15-6-amd-quad-core-a12-16gb-ram-1tb-dd-4gb-tg-1115740"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer HP 15,6\" Intel Core i5, 8 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $649.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-hp-15-6-intel-core-i5--8-gb-ram--1-tb-dd-1123806"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo 330S-14IKB 14\" I7-8550U, 20GB Total (4GB ...",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-330s-14ikb-14-i7-8550u--20gb-total-%284gb-ram--16gb-optane%29--1tb-dd-1129872"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0001la 15,6\" Intel Celeron N4000, 4 GB ...",
+            "precio-internet": "Internet $209.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-tower-15-6-intel-celeron-n4000--4-gb-ram--500-gb-1124448"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Intel Core i7 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $879.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/notebook-lenovo-ideapad-330s-15-6-intel-core-i7-8va-generacion-8gb-ram-128-gb-ssd-1-tb-dd-amd-540-2gb-1124747"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo YOGA 330 Intel Pentium Quad Core N5000, ...",
+            "precio-internet": "Internet $279.990",
+            "precio-normal": "Normal $279.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-convertidor-lenovo-11--pentium-n500-4gb-ram-128gb-dd-1126569"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Y730 Intel Core i5 8va ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-6-pentium-n500-8gb-ram--1tb--1126758"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Nitro 5 AN515-52-722W+Core i7 8GB+16GB RAM 1TB",
+            "precio-internet": "Internet $729.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hacer-nitro-5-an515-52-722w-core-i7-8gb-16gb-ram-1tb-1129833"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Apple MacBook Pro Touch Bar 13.3\" Intel Core i5 8va GEN ...",
+            "precio-internet": "Internet $1.599.990",
+            "precio-normal": "Normal $1.999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-pro-133-intel-core-i5--8-gb-ram--256-gb--1128385"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 245 G6 AMD E2 14\" 4GB RAM 500GB DD",
+            "precio-internet": "Internet $179.990",
+            "precio-normal": "Normal $269.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-amd-dual-core-e1-2100-866535"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $199.990",
+            "precio-normal": "Normal $389.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i3-4gb-ram-1tb-dd-1107784"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion x360 2 en 1 14-ba001la 14\" Intel Core ...",
+            "precio-internet": "Internet $229.990",
+            "precio-normal": "Normal $449.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-x360-2-en-1-14-ba001la-14-intel-core-4gb-ram-500gb-dd-lapiz-inteligente-1115754"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Ryzen 3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $319.990",
+            "precio-normal": "Normal $399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330s-156--ryzen-3--4gb-ram--1tb-dd-1124746"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB DD",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd-1124748"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0004la 15,6\", Intel Pentium Silver N5000, ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $339.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-15-da0004la-15-6---intel-pentium-silver-n5000---4gb-ram--500gb-dd-1124449"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Asus TUF Gaming FX504GD-E4653T 15,6\" Intel ...",
+            "precio-internet": "Internet $699.990",
+            "precio-normal": "Normal $849.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-asus-tuf-gaming-fx504gd-e4653t-15-6-intel-core-i7-8750h--8gb-ram--1tb-hdd-1127731"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Intel Core i5-8300H 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-i5-8300h-8gb-ram--1tb-1126761"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i5, 4 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $499.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i5--4-gb-ram--1-tb-dd-1127545"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Legion Y530 15,6\" Intel Core I7-8750H, Hexa ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $1.099.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-legion-y530-15-6-intel-core-i7-8750h--hexa-core--hasta-4-1ghz--24gb-total--8gb-ram--16-optane--1tb-dd-1129877"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Aspire 3 A315-41-R09T Ryzen 5 4GB RAM 1TB",
+            "precio-internet": "Internet $329.990",
+            "precio-normal": "Normal $429.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-acer-aspire-3-a315-41-r09t-ryzen-54gb-ram-1tb-1129832"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $299.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd--mouse-logitech-m170-rojo-combo8178"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-gris-espacial-1131107"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-oro-1131109"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-plata-1131108"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion 15-cd006la 15,6\" AMD Quad Core A12 ...",
+            "precio-internet": "Internet $399.990",
+            "precio-normal": "Normal $599.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-15-cd006la-15-6-amd-quad-core-a12-16gb-ram-1tb-dd-4gb-tg-1115740"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer HP 15,6\" Intel Core i5, 8 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $649.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-hp-15-6-intel-core-i5--8-gb-ram--1-tb-dd-1123806"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo 330S-14IKB 14\" I7-8550U, 20GB Total (4GB ...",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-330s-14ikb-14-i7-8550u--20gb-total-%284gb-ram--16gb-optane%29--1tb-dd-1129872"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0001la 15,6\" Intel Celeron N4000, 4 GB ...",
+            "precio-internet": "Internet $209.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-tower-15-6-intel-celeron-n4000--4-gb-ram--500-gb-1124448"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Intel Core i7 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $879.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/notebook-lenovo-ideapad-330s-15-6-intel-core-i7-8va-generacion-8gb-ram-128-gb-ssd-1-tb-dd-amd-540-2gb-1124747"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo YOGA 330 Intel Pentium Quad Core N5000, ...",
+            "precio-internet": "Internet $279.990",
+            "precio-normal": "Normal $279.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-convertidor-lenovo-11--pentium-n500-4gb-ram-128gb-dd-1126569"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Y730 Intel Core i5 8va ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-6-pentium-n500-8gb-ram--1tb--1126758"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Nitro 5 AN515-52-722W+Core i7 8GB+16GB RAM 1TB",
+            "precio-internet": "Internet $729.990",
+            "precio-normal": "Normal $999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hacer-nitro-5-an515-52-722w-core-i7-8gb-16gb-ram-1tb-1129833"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Apple MacBook Pro Touch Bar 13.3\" Intel Core i5 8va GEN ...",
+            "precio-internet": "Internet $1.599.990",
+            "precio-normal": "Normal $1.999.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-pro-133-intel-core-i5--8-gb-ram--256-gb--1128385"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 245 G6 AMD E2 14\" 4GB RAM 500GB DD",
+            "precio-internet": "Internet $179.990",
+            "precio-normal": "Normal $269.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-amd-dual-core-e1-2100-866535"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $199.990",
+            "precio-normal": "Normal $389.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i3-4gb-ram-1tb-dd-1107784"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion x360 2 en 1 14-ba001la 14\" Intel Core ...",
+            "precio-internet": "Internet $229.990",
+            "precio-normal": "Normal $449.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-x360-2-en-1-14-ba001la-14-intel-core-4gb-ram-500gb-dd-lapiz-inteligente-1115754"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330s 15.6\", Ryzen 3, 4GB RAM, 1TB DD",
+            "precio-internet": "Internet $319.990",
+            "precio-normal": "Normal $399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330s-156--ryzen-3--4gb-ram--1tb-dd-1124746"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB DD",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $309.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd-1124748"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 15-da0004la 15,6\", Intel Pentium Silver N5000, ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $339.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-15-da0004la-15-6---intel-pentium-silver-n5000---4gb-ram--500gb-dd-1124449"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Asus TUF Gaming FX504GD-E4653T 15,6\" Intel ...",
+            "precio-internet": "Internet $699.990",
+            "precio-normal": "Normal $849.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-asus-tuf-gaming-fx504gd-e4653t-15-6-intel-core-i7-8750h--8gb-ram--1tb-hdd-1127731"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Gamer Lenovo Legion Intel Core i5-8300H 8va ...",
+            "precio-internet": "Internet $599.990",
+            "precio-normal": "Normal $699.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-gamer-lenovo-legion-15-i5-8300h-8gb-ram--1tb-1126761"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP 14\" Intel Core i5, 4 GB RAM, 1 TB DD",
+            "precio-internet": "Internet $469.990",
+            "precio-normal": "Normal $499.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-14-intel-core-i5--4-gb-ram--1-tb-dd-1127545"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Legion Y530 15,6\" Intel Core I7-8750H, Hexa ...",
+            "precio-internet": "Internet $799.990",
+            "precio-normal": "Normal $1.099.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-legion-y530-15-6-intel-core-i7-8750h--hexa-core--hasta-4-1ghz--24gb-total--8gb-ram--16-optane--1tb-dd-1129877"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Acer Aspire 3 A315-41-R09T Ryzen 5 4GB RAM 1TB",
+            "precio-internet": "Internet $329.990",
+            "precio-normal": "Normal $429.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-acer-aspire-3-a315-41-r09t-ryzen-54gb-ram-1tb-1129832"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Lenovo Ideapad 330 15.6\", AMD A6, 4GB RAM, 500GB ...",
+            "precio-internet": "Internet $249.990",
+            "precio-normal": "Normal $299.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-lenovo-ideapad-330-156--amd-a6--4gb-ram--500gb-dd--mouse-logitech-m170-rojo-combo8178"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-gris-espacial-1131107"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-oro-1131109"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook Apple MacBook Air 13.3\" Intel Core i5, 8 GB RAM, ...",
+            "precio-internet": "Internet $1.049.990",
+            "precio-normal": "Normal $1.399.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-apple-macbook-air-133-intel-core-i5--8-gb-ram--128-gb-ssd-plata-1131108"
+        },
+        {
+            "pagina": "Notebooks - Computadores en Oferta | Abcdin.cl",
+            "nombre": "Notebook HP Pavilion 15-cd006la 15,6\" AMD Quad Core A12 ...",
+            "precio-internet": "Internet $399.990",
+            "precio-normal": "Normal $599.990",
+            "fecha": "14/04/19",
+            "url_producto": "https://www.abcdin.cl/tienda/es/abcdin/computacion/notebooks/notebook-hp-pavilion-15-cd006la-15-6-amd-quad-core-a12-16gb-ram-1tb-dd-4gb-tg-1115740"
+        }
+    ]
+}
