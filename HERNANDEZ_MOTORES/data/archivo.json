@@ -1,0 +1,34 @@
+{
+    "productos": [
+        {
+            "nombre": "FILTRO DE PETROLEO HD:PORTER",
+            "precio_antiguo": "$17.867",
+            "precio_actual": "$17.867"
+        },
+        {
+            "nombre": "POLEA DE DISTRIBUCION HYUNDAI",
+            "precio_antiguo": "$25.368",
+            "precio_actual": "$4.645"
+        },
+        {
+            "nombre": "FILTRO AIRE *HD ACCENT",
+            "precio_antiguo": "$11.398",
+            "precio_actual": "$25.368"
+        },
+        {
+            "nombre": "FILTRO AIRE 1.5   *HD ACCENT",
+            "precio_antiguo": "$11.204",
+            "precio_actual": "$16.798"
+        },
+        {
+            "nombre": "PASTILLA DE FRENO",
+            "precio_antiguo": "$98.490",
+            "precio_actual": "$11.398"
+        },
+        {
+            "nombre": "PASTILLA FRENO ACCENT 2006 *HD",
+            "precio_antiguo": "$60.823",
+            "precio_actual": "$7.404"
+        }
+    ]
+}
