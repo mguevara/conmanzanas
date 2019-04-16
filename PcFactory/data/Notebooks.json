@@ -1,0 +1,254 @@
+{
+   "Productos": [
+      {
+         "Nombre": "Notebook V130-14IKB Celeron 3865U 4GB 500GB 14\" Free DOS",
+         "Precio": "$139.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook 245 G6 14\" HD AMD E2-9000e 4GB 500GB Free DOS",
+         "Precio": "$179.390",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Celeron N3060 4GB 500GB  Free DOS ",
+         "Precio": "$184.290",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6  Celeron N3060 4GB 500GB  Free DOS ",
+         "Precio": "$184.290",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Aspire 3 14\" HD Intel Celeron N3350 4GB 500GB Windows 10 Negro A314-31-C0V3",
+         "Precio": "$203.690",
+         "Marca": "Acer  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Intel Celeron N4000 4GB 500GB Windows 10",
+         "Precio": "$213.390",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebooks 14-cm0001la 14\" HD AMD E2-9000e 4GB 500GB Windows 10 ",
+         "Precio": "$219.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook X540MA-GQ070T Intel® Celeron® N4000 4GB 500GB 15.6\" HD Windows 10 Negro",
+         "Precio": "$223.090",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook Aspire 3 14\" HD Intel Pentium N4200 4GB 500GB Windows 10 Negro A314-31-P6AB",
+         "Precio": "$232.790",
+         "Marca": "Acer  ® "
+      },
+      {
+         "Nombre": "Notebook IdeaPad 120s 14\" HD Intel Celeron N3350 4GB 128GB SSD Windows 10 1.44 Kg",
+         "Precio": "$249.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook Ideapad 330 15.6\" HD AMD A6-9225 4GB 500GB Windows 10 Midnight Blue",
+         "Precio": "$249.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook 15.6\" HD Intel Pentium Gold 4417U 4GB 500GB Windows 10 15-da0039la ",
+         "Precio": "$252.190",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook X540MA-GQ073T 15.6\" HD Pentium N5000 4GB 500GB Windows 10",
+         "Precio": "$261.890",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Intel i3-7020U 4GB 1TB Free DOS",
+         "Precio": "$269.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Dell Inspiron 14 3000 14\" HD Intel i3-7020U 4GB 1TB Windows 10",
+         "Precio": "$279.990",
+         "Marca": "Dell  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano 330s 15.6\" HD Ryzen 3 2200U 4GB 1TB Windows 10",
+         "Precio": "$299.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook 250 G6 15.6\" HD Intel i3-7020U 4GB 1TB Windows 10",
+         "Precio": "$310.390",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 14-cm0008la 14\" HD Ryzen 3 2200U 8GB 1TB Windows 10 Plata",
+         "Precio": "$320.090",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 250 G6 15,6\" HD Intel i3-6006U 8GB 1TB AMD Radeon 2GB Windows 10",
+         "Precio": "$329.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Intel i5-7200U 4GB 1TB  Windows 10",
+         "Precio": "$349.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 2 en 1 Pavilion x360 14-cd0001la 14\" HD Touch Intel Pentium Gold 4415U 4GB 500GB Windows 10 ",
+         "Precio": "$358.890",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Aspire 3 15.6\" Intel i3 8130U 4GB + 16GB Optane 1TB Windows 10 Negro A315-53-386P",
+         "Precio": "$358.890",
+         "Marca": "Acer  ® "
+      },
+      {
+         "Nombre": "Notebook Aspire 3 15.6\" HD Ryzen 5 2500U 8GB 1TB Windows 10 Negro A315-41-R09U",
+         "Precio": "$359.990",
+         "Marca": "Acer  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Intel i5-7200U 4GB 1TB  Free DOS",
+         "Precio": "$368.590",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 14-cf0002la 14\" HD Intel i3-7020U 4GB + 16GB Optane 1TB Windows 10",
+         "Precio": "$368.590",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 14\" HD Intel i3-7020U 4GB+16GB Optane 1TB  AMD Radeon 530 2GB Windows 10 14-cf0003la",
+         "Precio": "$369.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 2 en 1 14-cd0003la 14\" HD TOUCH Intel i3-8130U 4GB 500GB  Windows 10_HP",
+         "Precio": "$387.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Ideapad 330s 15.6\" FHD Intel i3-8130U 4GB + 16GB Optane 1TB AMD Radeon 535 2GB Windows 10",
+         "Precio": "$419.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook VivoBook X555QA-XO085T AMD A12-9720P 8GB 1TB 15.6\" HD Windows 10 Plata",
+         "Precio": "$427.490",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook 240 G6 14\" HD Intel i5-8250U 8GB 1TB Windows 10",
+         "Precio": "$436.490",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook X507UF 15.6\" FHD Intel i3-8130U 4GB + 16GB Optane 1TB NVIDIA MX130 2GB Windows 10 X507UF-EJ037T",
+         "Precio": "$436.490",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook X507UF-EJ317T  15.6\" FHD Intel i3-8130U 4GB + 16GB Optane 1TB NVIDIA MX130 2GB Windows 10 ",
+         "Precio": "$436.490",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook 2 en 1 14-cd0006la 14\" HD TOUCH Intel i5-8250U 4GB 500GB  Windows 10 _HP",
+         "Precio": "$446.190",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Ideapad 330s 15.6\" FHD Intel i5-8250U 4GB+16GB Optane 1TB Radeon 535 2GB Windows 10 Plata",
+         "Precio": "$449.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook 14-cf0004la 14\" HD Intel i5-8250U 4GB + 16GB Optane 1TB Windows 10",
+         "Precio": "$455.890",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 14-cf0005la 14\" HD Intel i5-8250U 4GB+16GB Optane 1TB AMD Radeon 530 2GB Windows 10_HP",
+         "Precio": "$484.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Pavilion 15.6\" HD Ryzen 5 12GB 1TB Windows 10 15-cw0002la",
+         "Precio": "$484.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Dell Inspiron 15 5000 15.6\" HD Intel Core i5-8250U 8GB 1TB Windows 10 Silver",
+         "Precio": "$514.090",
+         "Marca": "Dell  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano 530s 14\" FHD Intel i5-8250U 8GB 128GB SSD Windows 10",
+         "Precio": "$529.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook Dell Inspiron 15 5000 15.6\" FHD Intel i5-8250U 8GB 2TB AMD Radeon 530 Graphics 2GB Windows 10  Sparkling White",
+         "Precio": "$529.990",
+         "Marca": "Dell  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano Pavilion 13.3\" HD Intel i5-8265U 8GB 256GB SSD Windows 10 Plata 13-an0012la",
+         "Precio": "$529.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Vostro 3468 14\" HD Intel i5-7200U 8GB 1TB Windows 10 Pro",
+         "Precio": "$533.490",
+         "Marca": "Dell  ® "
+      },
+      {
+         "Nombre": "Notebook 2 en 1 Inspiron 14 5000 14\" HD Intel Core i5-8265U 8GB 1TB Windows 10 Plata",
+         "Precio": "$533.490",
+         "Marca": "Dell  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano Vivobook S14 Intel i5-8250U 8GB 256GB SSD 14\" FHD Windows 10 S406UA-BM013T",
+         "Precio": "$549.990",
+         "Marca": "Asus  ® "
+      },
+      {
+         "Nombre": "Notebook Aspire 5 15.6\" HD Intel i7 8550U 4GB + 16GB Optane 1TB Windows 10 Negro A515-51G-83QA",
+         "Precio": "$572.190",
+         "Marca": "Acer  ® "
+      },
+      {
+         "Nombre": "Notebook VAIO Fit 15S 15.6\" HD Intel i5-7200U 4GB + 16GB Intel Optane 1TB Windows 10 blanco ",
+         "Precio": "$572.290",
+         "Marca": "VAIO  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano Ideapad 720s 13.3\" FHD AMD Ryzen 5 2500U 8GB 128GB SSD Windows 10",
+         "Precio": "$579.990",
+         "Marca": "Lenovo  ® "
+      },
+      {
+         "Nombre": "Notebook 348 G4 14\" HD Intel i7-7500U 4GB 1TB AMD Radeon R5 2GB Windows 10",
+         "Precio": "$581.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook 2en1 Envy x360 Ryzen 5 2500U 8GB 256GB SSD 13.3\" FHD Touch Windows 10 13-ag0002la",
+         "Precio": "$589.990",
+         "Marca": "HP  ® "
+      },
+      {
+         "Nombre": "Notebook Ultraliviano Envy 13.3\" FHD Intel i5-8250U 8GB 256GB SSD Windows 10 Plata 13-ah0003la",
+         "Precio": "$599.990",
+         "Marca": "HP  ® "
+      }
+   ]
+}
